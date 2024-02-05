@@ -5,6 +5,7 @@
 
 ## **📌 INTRODUCCIÓN**
 
+
 ¡Hola 😄! Bienvenid@ al Prep Course para la carrera de Data Science
 
 En este curso introductorio podrás aprender y practicar todo el contenido que necesitas para alcanzar un nivel intermedio en Python, el lenguaje con el que vas a trabajar en la carrera. Encontrarás todo el material que necesitas para lograr avanzar en la evaluación del Henry Challenge (último paso para ingresar a la carrera de Data).
